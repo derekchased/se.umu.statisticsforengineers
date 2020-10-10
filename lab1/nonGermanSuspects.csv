@@ -1,0 +1,209 @@
+Year,Nationality,Region,Total in 2016,Proportion
+2009,Rumänien,Eastern Europe,53581,4.1
+2009,Polen,Eastern Europe,45118,7.3
+2009,Syrien,Middle East,39034,0.6
+2009,Serbien,Eastern Europe,24280,4
+2009,Italien,Southern Europe,22893,5.7
+2009,Afghanistan,Asia,22747,1
+2009,Bulgarien,Eastern Europe,19695,1.5
+2009,Irak,Middle East,18326,2.1
+2009,Albanien,Eastern Europe,14284,0.6
+2009,Kosovo,Eastern Europe,14262,1.1
+2009,Marokko,Northern Africa,13751,1.4
+2009,Iran,Middle East,11454,1.2
+2009,Algerien,Northern Africa,11138,0.7
+2009,Russische Föderation,Former Soviet Union,10398,2.2
+2009,Griechenland,Southern Europe,10229,2.2
+2009,Bosnien und Herzegowina,Eastern Europe,9273,1.9
+2009,Kroatien,Eastern Europe,8647,1.8
+2009,Mazedonien,Eastern Europe,8186,1
+2009,Niederlande,Western Europe,6770,1.7
+2009,Ungarn,Eastern Europe,6563,0.6
+2009,Frankreich,Western Europe,6559,1.8
+2009,Georgien,Former Soviet Union,6541,0.4
+2009,Nigeria,Africa,6201,0.7
+2009,Pakistan,Asia,6099,0.4
+2009,Sonstige,Other,150283,29.5
+2009,Türkei,Middle East,69918,23.5
+2010,Rumänien,Eastern Europe,53581,5.2
+2011,Rumänien,Eastern Europe,53581,6.2
+2012,Rumänien,Eastern Europe,53581,7.4
+2013,Rumänien,Eastern Europe,53581,8.7
+2014,Rumänien,Eastern Europe,53581,9.6
+2015,Rumänien,Eastern Europe,53581,9.4
+2016,Rumänien,Eastern Europe,53581,8.7
+2010,Polen,Eastern Europe,45118,7.5
+2011,Polen,Eastern Europe,45118,8.2
+2012,Polen,Eastern Europe,45118,8.6
+2013,Polen,Eastern Europe,45118,8.9
+2014,Polen,Eastern Europe,45118,8.9
+2015,Polen,Eastern Europe,45118,8
+2016,Polen,Eastern Europe,45118,7.3
+2010,Syrien,Middle East,39034,0.6
+2011,Syrien,Middle East,39034,0.7
+2012,Syrien,Middle East,39034,0.8
+2013,Syrien,Middle East,39034,1
+2014,Syrien,Middle East,39034,1.3
+2015,Syrien,Middle East,39034,2.6
+2016,Syrien,Middle East,39034,6.3
+2010,Serbien,Eastern Europe,24280,4.1
+2011,Serbien,Eastern Europe,24280,4.3
+2012,Serbien,Eastern Europe,24280,4.2
+2013,Serbien,Eastern Europe,24280,4.3
+2014,Serbien,Eastern Europe,24280,4.7
+2015,Serbien,Eastern Europe,24280,4.8
+2016,Serbien,Eastern Europe,24280,3.9
+2010,Italien,Southern Europe,22893,5.6
+2011,Italien,Southern Europe,22893,5.3
+2012,Italien,Southern Europe,22893,5.2
+2013,Italien,Southern Europe,22893,5
+2014,Italien,Southern Europe,22893,4.8
+2015,Italien,Southern Europe,22893,4.3
+2016,Italien,Southern Europe,22893,3.7
+2010,Afghanistan,Asia,22747,1
+2011,Afghanistan,Asia,22747,1.2
+2012,Afghanistan,Asia,22747,1.3
+2013,Afghanistan,Asia,22747,1.3
+2014,Afghanistan,Asia,22747,1.3
+2015,Afghanistan,Asia,22747,1.8
+2016,Afghanistan,Asia,22747,3.7
+2010,Bulgarien,Eastern Europe,19695,2
+2011,Bulgarien,Eastern Europe,19695,2.5
+2012,Bulgarien,Eastern Europe,19695,3
+2013,Bulgarien,Eastern Europe,19695,3.2
+2014,Bulgarien,Eastern Europe,19695,3.4
+2015,Bulgarien,Eastern Europe,19695,3.3
+2016,Bulgarien,Eastern Europe,19695,3.2
+2010,Irak,Middle East,18326,2.1
+2011,Irak,Middle East,18326,1.9
+2012,Irak,Middle East,18326,1.8
+2013,Irak,Middle East,18326,1.7
+2014,Irak,Middle East,18326,1.5
+2015,Irak,Middle East,18326,1.6
+2016,Irak,Middle East,18326,3
+2010,Albanien,Eastern Europe,14284,0.5
+2011,Albanien,Eastern Europe,14284,0.5
+2012,Albanien,Eastern Europe,14284,0.6
+2013,Albanien,Eastern Europe,14284,0.6
+2014,Albanien,Eastern Europe,14284,0.8
+2015,Albanien,Eastern Europe,14284,2.5
+2016,Albanien,Eastern Europe,14284,2.3
+2010,Kosovo,Eastern Europe,14262,1.6
+2011,Kosovo,Eastern Europe,14262,1.8
+2012,Kosovo,Eastern Europe,14262,2
+2013,Kosovo,Eastern Europe,14262,2.1
+2014,Kosovo,Eastern Europe,14262,2.2
+2015,Kosovo,Eastern Europe,14262,3
+2016,Kosovo,Eastern Europe,14262,2.3
+2010,Marokko,Northern Africa,13751,1.4
+2011,Marokko,Northern Africa,13751,1.4
+2012,Marokko,Northern Africa,13751,1.4
+2013,Marokko,Northern Africa,13751,1.5
+2014,Marokko,Northern Africa,13751,1.9
+2015,Marokko,Northern Africa,13751,2.1
+2016,Marokko,Northern Africa,13751,2.2
+2010,Iran,Middle East,11454,1.2
+2011,Iran,Middle East,11454,1.2
+2012,Iran,Middle East,11454,1.2
+2013,Iran,Middle East,11454,1.1
+2014,Iran,Middle East,11454,1.1
+2015,Iran,Middle East,11454,1
+2016,Iran,Middle East,11454,1.9
+2010,Algerien,Northern Africa,11138,0.7
+2011,Algerien,Northern Africa,11138,0.7
+2012,Algerien,Northern Africa,11138,0.7
+2013,Algerien,Northern Africa,11138,0.8
+2014,Algerien,Northern Africa,11138,1.3
+2015,Algerien,Northern Africa,11138,2.1
+2016,Algerien,Northern Africa,11138,1.8
+2010,Russische Föderation,Former Soviet Union,10398,2.2
+2011,Russische Föderation,Former Soviet Union,10398,2.2
+2012,Russische Föderation,Former Soviet Union,10398,2.1
+2013,Russische Föderation,Former Soviet Union,10398,2.2
+2014,Russische Föderation,Former Soviet Union,10398,2.1
+2015,Russische Föderation,Former Soviet Union,10398,1.8
+2016,Russische Föderation,Former Soviet Union,10398,1.7
+2010,Griechenland,Southern Europe,10229,2.2
+2011,Griechenland,Southern Europe,10229,2.1
+2012,Griechenland,Southern Europe,10229,2.2
+2013,Griechenland,Southern Europe,10229,2.1
+2014,Griechenland,Southern Europe,10229,2.1
+2015,Griechenland,Southern Europe,10229,1.8
+2016,Griechenland,Southern Europe,10229,1.7
+2010,Bosnien und Herzegowina,Eastern Europe,9273,1.9
+2011,Bosnien und Herzegowina,Eastern Europe,9273,1.8
+2012,Bosnien und Herzegowina,Eastern Europe,9273,1.8
+2013,Bosnien und Herzegowina,Eastern Europe,9273,1.8
+2014,Bosnien und Herzegowina,Eastern Europe,9273,1.8
+2015,Bosnien und Herzegowina,Eastern Europe,9273,1.8
+2016,Bosnien und Herzegowina,Eastern Europe,9273,1.5
+2010,Kroatien,Eastern Europe,8647,1.8
+2011,Kroatien,Eastern Europe,8647,1.6
+2012,Kroatien,Eastern Europe,8647,1.5
+2013,Kroatien,Eastern Europe,8647,1.4
+2014,Kroatien,Eastern Europe,8647,1.5
+2015,Kroatien,Eastern Europe,8647,1.4
+2016,Kroatien,Eastern Europe,8647,1.4
+2010,Mazedonien,Eastern Europe,8186,1.1
+2011,Mazedonien,Eastern Europe,8186,1.2
+2012,Mazedonien,Eastern Europe,8186,1.2
+2013,Mazedonien,Eastern Europe,8186,1.3
+2014,Mazedonien,Eastern Europe,8186,1.4
+2015,Mazedonien,Eastern Europe,8186,1.4
+2016,Mazedonien,Eastern Europe,8186,1.3
+2010,Niederlande,Western Europe,6770,1.6
+2011,Niederlande,Western Europe,6770,1.6
+2012,Niederlande,Western Europe,6770,1.6
+2013,Niederlande,Western Europe,6770,1.5
+2014,Niederlande,Western Europe,6770,1.4
+2015,Niederlande,Western Europe,6770,1.2
+2016,Niederlande,Western Europe,6770,1.1
+2010,Ungarn,Eastern Europe,6563,0.7
+2011,Ungarn,Eastern Europe,6563,0.8
+2012,Ungarn,Eastern Europe,6563,1
+2013,Ungarn,Eastern Europe,6563,1.1
+2014,Ungarn,Eastern Europe,6563,1.2
+2015,Ungarn,Eastern Europe,6563,1.1
+2016,Ungarn,Eastern Europe,6563,1.1
+2010,Frankreich,Western Europe,6559,1.7
+2011,Frankreich,Western Europe,6559,1.8
+2012,Frankreich,Western Europe,6559,1.7
+2013,Frankreich,Western Europe,6559,1.7
+2014,Frankreich,Western Europe,6559,1.5
+2015,Frankreich,Western Europe,6559,1.3
+2016,Frankreich,Western Europe,6559,1.1
+2010,Georgien,Former Soviet Union,6541,0.5
+2011,Georgien,Former Soviet Union,6541,0.4
+2012,Georgien,Former Soviet Union,6541,0.6
+2013,Georgien,Former Soviet Union,6541,0.8
+2014,Georgien,Former Soviet Union,6541,1.1
+2015,Georgien,Former Soviet Union,6541,1.3
+2016,Georgien,Former Soviet Union,6541,1.1
+2010,Nigeria,Africa,6201,0.7
+2011,Nigeria,Africa,6201,0.7
+2012,Nigeria,Africa,6201,0.7
+2013,Nigeria,Africa,6201,0.7
+2014,Nigeria,Africa,6201,0.7
+2015,Nigeria,Africa,6201,0.8
+2016,Nigeria,Africa,6201,1
+2010,Pakistan,Asia,6099,0.4
+2011,Pakistan,Asia,6099,0.4
+2012,Pakistan,Asia,6099,0.5
+2013,Pakistan,Asia,6099,0.5
+2014,Pakistan,Asia,6099,0.6
+2015,Pakistan,Asia,6099,0.7
+2016,Pakistan,Asia,6099,1
+2010,Sonstige,Other,150283,28.6
+2011,Sonstige,Other,150283,27.8
+2012,Sonstige,Other,150283,26.5
+2013,Sonstige,Other,150283,25.8
+2014,Sonstige,Other,150283,25.4
+2015,Sonstige,Other,150283,25.2
+2016,Sonstige,Other,150283,24.4
+2010,Türkei,Middle East,69918,22.3
+2011,Türkei,Middle East,69918,21.3
+2012,Türkei,Middle East,69918,20
+2013,Türkei,Middle East,69918,18.2
+2014,Türkei,Middle East,69918,16
+2015,Türkei,Middle East,69918,13.3
+2016,Türkei,Middle East,69918,11.3
